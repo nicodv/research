@@ -53,5 +53,5 @@ coverage.xml
 docs/_build/
 
 .idea
-.ipybn_checkpoints
+.ipynb_checkpoints
 
