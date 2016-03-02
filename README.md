@@ -1,4 +1,4 @@
-bgg
-===
+research
+========
 
-BoardGameGeek related stuff
+Code for various small research projects
